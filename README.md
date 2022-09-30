@@ -2,6 +2,7 @@
 layout: default
 title: AI One Pager
 nav_order: 1
+permalink: /
 ---
 
 

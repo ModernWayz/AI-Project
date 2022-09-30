@@ -16,7 +16,7 @@ This technology could be used to implement existing CNNs onto 360° imagery.
 KTN takes the existing models as input and connects the KTN layer to the 360° output.
 This makes the KTN transferable across models.
 
-![transferability!](/images/transferability.png "Transferability")
+![transferability!](/imagess/transferability.png "Transferability")
 
 
 

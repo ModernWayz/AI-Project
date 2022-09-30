@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI One Pager
+title: Home
 nav_order: 1
 permalink: /
 ---

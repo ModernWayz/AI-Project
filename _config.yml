@@ -10,7 +10,7 @@ back_to_top_text: "Back to top"
 
 
 nav_external_links:
-  - title: Generative AI
+  - title: Github Page
     url: https://github.com/ModernWayz/AI-Project
     hide_icon: false # set to true to hide the external link icon - defaults to false
     

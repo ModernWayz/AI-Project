@@ -1,0 +1,19 @@
+remote_theme: just-the-docs/just-the-docs
+
+
+color_scheme: dark
+
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+
+
+nav_external_links:
+  - title: Project On Github
+    url: https://github.com/ModernWayz/AI-Project
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    
+    
+    
+logo: "/images/RusskiMcdo.png"

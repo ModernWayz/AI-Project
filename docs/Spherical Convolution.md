@@ -20,7 +20,7 @@ Bij Spherical convolution wordt er een bestaand en getraind CNN gebruikt om vers
 op 360 graden afbeeldingen.
 
 Spherical convolution is een techniek die draait rond twee dingen: 1) het aanpassen van de vorm van de kernel om de vervormingen 
-die optreden bij het omzetten van Afstandsgetrouwe cilinderprojectie (Equirectangular projection). 2) Het aantal max pooling layers verkleinen om ervoor te zorgen
+die optreden bij het omzetten van [Afstandsgetrouwe cilinderprojectie (Equirectangular projection)](https://modernwayz.github.io/AI-Project/docs/General%20Information.html#afstandsgetrouwe-cilinderprojectie-equirectangular-projection). 2) Het aantal max pooling layers verkleinen om ervoor te zorgen
 dat de pixel grote hetzelfde blijft.
 Daarbij zorgt deze techniek ervoor dat het aantal lagen hetzelfde is als het aantal lagen bij het gebruikte input netwerk.
 

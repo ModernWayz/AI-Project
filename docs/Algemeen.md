@@ -23,7 +23,9 @@ standpunt van de observeerder (centrum van 360° afbeelding) een vervorming die 
 ![Kubus map](../images/kubus.jpg "kubus map")
 
 Een mogelijke oplossing hiervoor kan een kubus map zijn waarbij de afstandsgetrouwe projectie wordt uitgevouwen naar de 6 vlakken van een kubus. 
-Hierna wordt de style transfer toegepast op elk vlak. (https://danilw.github.io/GLSL-howto/cubemap_to_panorama_js/cubemap_to_panorama.html)
+Hierna wordt de style transfer toegepast op elk vlak. 
+*afstandsgetrouwe cilinderprojectie --> kubus map (https://jaxry.github.io/panorama-to-cubemap/)
+*kubus map --> afstandsgetrouwe cilinderprojectie (https://danilw.github.io/GLSL-howto/cubemap_to_panorama_js/cubemap_to_panorama.html)
 
 ### Resultaat
 

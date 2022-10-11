@@ -8,7 +8,7 @@ nav_order: 3
 
 ![Original 360](../images/360.jpg"360 graden") ![Style transfer](../images/styletransfer.png"style transfer image")
 
-Door gebruik te maken van ![Neural Style Transfer](https://doi.org/10.48550/arXiv.1508.06576) adhv een bestaand ![repo](https://github.com/crowsonkb/style-transfer-pytorch)
+Door gebruik te maken van ![Neural Style Transfer](https://doi.org/10.48550/arXiv.1508.06576) adhv een bestaand [repo](https://github.com/crowsonkb/style-transfer-pytorch)
 op een afstandegetrouwe cilinderprojectie zien we dat er op de resulterende afbeelding (in 360° beeld) een duidelijke scheiding is.
 
 ![Scheiding](../images/scheiding.png"scheiding") 

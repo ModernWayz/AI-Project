@@ -40,3 +40,16 @@ Hierna wordt de style transfer toegepast op elk vlak.
 Deze uitvoering zorgt ervoor dat de convergerende lijnen in het centrum verdwijnen maar hierdoor duiken er nieuwe artefacten op bij de samenvoeging van de kubus vlakken.
 Deze lijnen geven de indruk dat de observeerder zich in een kubus bevind.
 
+## SIFT 
+
+Door gebruik te maken van SIFT om kenmerkende eigenschappen uit gelijkaardige afbeeldingen te halen kunnen we afbeeldingen samenvoegen zonder een lijn te genereren.
+Een simpele toepassing van deze techniek op een rectilineaire afbleedingenspaar geeft als resultaat zeer veel correcte kenmerkende eigenschappen (correct duidt hier op
+dezelfde plek op beide afbeeldingen).
+
+![Normale SIFT](../images/siftnorm.jpg "SIFT normale")
+
+Maar na een style transfer toe te passen op rectilineaire afbeeldingen zien we dat de kenmerkende eigenschappen zo goed als verdwijnen. 
+Dit heeft als gevolg dat het samenvoegen van de afbeeldingen niet correct verloopt.
+
+![Style transfer SIFT](../images/siftstyle.jpg "SIFT styleTransfer")
+

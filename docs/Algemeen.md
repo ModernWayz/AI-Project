@@ -53,3 +53,13 @@ Dit heeft als gevolg dat het samenvoegen van de afbeeldingen niet correct verloo
 
 ![Style transfer SIFT](../images/siftstyle.jpg "SIFT styleTransfer")
 
+### SIFT advanced
+
+In plaats van kenmerkende eigenschappen te zoeken op een afbeelding die getransformeerd is met de style transfer nemen we de eigenschappen van de originele afbeeldingen om een mask te maken en de afbeeldingen te blenden. Hiervoor maken we gebruik van een bestaand [repo](https://github.com/lukasalexanderweber/stitching) met enkele kleine aanpassingen. Voor onderstaande afbeelding zijn er 16 input afbeeldingen gebruikt als een eerste test van deze blending/stitching methode.
+
+![Style Transfer SIFT advanced](../images/advancedsiftstyle.jpg "Advanced SIFT styletransfer")
+
+de volgende stap is nu deze methode toepassen op genoeg afbeeldingen om een volledig 360° afbeeldingen te vormen en te evalueren.
+
+
+

@@ -55,11 +55,31 @@ Dit heeft als gevolg dat het samenvoegen van de afbeeldingen niet correct verloo
 
 ### SIFT advanced
 
-In plaats van kenmerkende eigenschappen te zoeken op een afbeelding die getransformeerd is met de style transfer nemen we de eigenschappen van de originele afbeeldingen om een mask te maken en de afbeeldingen te blenden. Hiervoor maken we gebruik van een bestaand [repo](https://github.com/lukasalexanderweber/stitching) met enkele kleine aanpassingen. Voor onderstaande afbeelding zijn er 16 input afbeeldingen gebruikt als een eerste test van deze blending/stitching methode.
+In plaats van kenmerkende eigenschappen te zoeken op een afbeelding die getransformeerd is met de style transfer nemen we de eigenschappen van de originele afbeeldingen om een mask te maken en de afbeeldingen te blenden. Hiervoor maken we gebruik van een bestaand [repo](https://github.com/lukasalexanderweber/stitching) met enkele kleine aanpassingen. 
+
+Door een afstandsgetrouwe cilinderprojectie met uitbreiding aan de zijkant (om overlap te generen) te nemen en deze te splitsen in het midden en de zijkanten
+terug aan elkaar te stitchen kunnen we het lijn artefact van hierboven proberen wegwerken.
+
+1. Originele afbeelding met uitbreiding (overlap)
+![Original overlap equirectangular](../images/equirectangular_og_test_overlap.png "Original overlap equirectangular")
+2. Originele afbeelding gesplit
+![Original overlap equirectangular split1](../images/equirectangular_og_test_overlap1.png "Original overlap equirectangular split 1") ![Original overlap equirectangular split2](../images/equirectangular_og_test_overlap2.png "Original overlap equirectangular split 2")
+4. Style transfer afbeeldingen 
+![styled overlap equirectangular split1](../images/charcoal_equilinear_styled1.png "Styled overlap equirectangular split 1") ![styled overlap equirectangular split2](../images/charcoal_equilinear_styled2.png "Styled overlap equirectangular split 2")
+5. Resultaat
+![Styled overlap equirectangular](../images/charcoal_equirectangular_styled_stitched.jpg "Styled overlap equirectangular")
+
+
+#### Sift met rectilineaire afbeeldingen
+
+Voor onderstaande afbeelding zijn er 16 rectilineaire afbeeldingen gebruikt als een test van deze blending/stitching methode op meerdere afbeedlingen vanuit
+verschillende hoeken.
 
 ![Style Transfer SIFT advanced](../images/advancedsiftstyle.jpg "Advanced SIFT styletransfer")
 
 de volgende stap is nu deze methode toepassen op genoeg afbeeldingen om een volledig 360° afbeeldingen te vormen en te evalueren.
+
+
 
 
 

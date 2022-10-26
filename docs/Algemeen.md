@@ -63,9 +63,9 @@ terug aan elkaar te stitchen kunnen we het lijn artefact van hierboven proberen 
 1. Originele afbeelding met uitbreiding (overlap)
 ![Original overlap equirectangular](../images/equirectangular_og_test_overlap.png "Original overlap equirectangular")
 2. Originele afbeelding gesplit
-![Original overlap equirectangular split1](../images/equirectangular_og_test_overlap1.png "Original overlap equirectangular split 1") ![Original overlap equirectangular split2](../images/equirectangular_og_test_overlap2.png "Original overlap equirectangular split 2")
+![Original overlap equirectangular split1](../images/original_images_overlap.png "Original overlap equirectangular split")
 4. Style transfer afbeeldingen 
-![styled overlap equirectangular split1](../images/charcoal_equilinear_styled1.png "Styled overlap equirectangular split 1") ![styled overlap equirectangular split2](../images/charcoal_equilinear_styled2.png "Styled overlap equirectangular split 2")
+![styled overlap equirectangular split](../images/styled_images_overlap.png "Styled overlap equirectangular split")
 5. Resultaat
 ![Styled overlap equirectangular](../images/charcoal_equirectangular_styled_stitched.jpg "Styled overlap equirectangular")
 

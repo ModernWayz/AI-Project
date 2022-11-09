@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Algemeen
-nav_order: 3
+title: Equirectangular/Cube_Map/Stitching/SIFT
+nav_order: 1
 ---
 
 # Algemeen
@@ -55,7 +55,7 @@ Dit heeft als gevolg dat het samenvoegen van de afbeeldingen niet correct verloo
 
 ### SIFT advanced
 
-In plaats van kenmerkende eigenschappen te zoeken op een afbeelding die getransformeerd is met de style transfer nemen we de eigenschappen van de originele afbeeldingen om een mask te maken en de afbeeldingen te blenden. Hiervoor maken we gebruik van een bestaand [repo](https://github.com/lukasalexanderweber/stitching) met enkele kleine aanpassingen. 
+In plaats van kenmerkende eigenschappen te zoeken op een afbeelding die getransformeerd is met de style transfer nemen we de eigenschappen van de originele afbeeldingen om een mask te maken en de afbeeldingen te blenden. Hiervoor maken we gebruik van een bestaand [repo](https://github.com/StijnWillemen/stitching) met enkele kleine aanpassingen. 
 
 Door een afstandsgetrouwe cilinderprojectie met uitbreiding aan de zijkant (om overlap te generen) te nemen en deze te splitsen in het midden en de zijkanten
 terug aan elkaar te stitchen kunnen we het lijn artefact van hierboven proberen wegwerken.

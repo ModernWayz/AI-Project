@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Equirectangular/Cube_Map/Stitching/SIFT
+title: Equirectangular/Cube_Map/Stitching
 nav_order: 1
 ---
 
@@ -39,6 +39,21 @@ Hierna wordt de style transfer toegepast op elk vlak.
 
 Deze uitvoering zorgt ervoor dat de convergerende lijnen in het centrum verdwijnen maar hierdoor duiken er nieuwe artefacten op bij de samenvoeging van de kubus vlakken.
 Deze lijnen geven de indruk dat de observeerder zich in een kubus bevind.
+
+### Blending
+
+Door een afstandsgetrouwe cilinderprojectie met overlappende uiteinden te gebruiken voor style transfer kunnen we de stitch-lijn proberen wegwerken.
+Deze afbeeldingen wordt met overlap gestyled en daarna worden de overlappende uiteinden over elkaar geblend.
+
+![Afstandsgetrouwe cilinderprojectie](../images/equirectangular_og_test_overlap.png "afstandsgetrouwe cilinderprojectie met overlap")
+
+![Afstandsgetrouwe cilinderprojectie style](../images/monet_overlap.png "afstandsgetrouwe cilinderprojectie met overlap")
+
+
+![Kubus_half_style_transfer](../images/NoTopNoBot.png "Kubus Half Style Transfer")
+
+Work in progress kubus gezichten met overlap samen blenden 
+
 
 
 

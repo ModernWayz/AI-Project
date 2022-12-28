@@ -12,9 +12,10 @@ nav_order: 3
 
 [Github Repo](https://github.com/sammy-su/KernelTransformerNetwork){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-This technology could be used to implement existing CNNs onto 360° imagery.
-KTN takes the existing models as input and connects the KTN layer to the 360° output.
-This makes the KTN transferable across models.
+Deze technologie wordt gebruikt in Spherical Convultion (Su & Grauman). Een kernel die geplaatst kan worden op bestaande CNN's om deze
+te kunnen gebruiken voor spherische afbeeldingen.
+
+Jammer genoeg wordt in deze paper het "boundary problem" niet aangepakt.
 
 ![transferability!](../images/transferability.png "Transferability")
 

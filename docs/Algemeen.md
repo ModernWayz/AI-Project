@@ -49,6 +49,7 @@ Deze afbeeldingen wordt met overlap gestyled en daarna worden de overlappende ui
 
 ![Afstandsgetrouwe cilinderprojectie style](../images/monet_overlap.png "afstandsgetrouwe cilinderprojectie met overlap")
 
+![Afstandsgetrouwe cilinderprojectie style](../images/manuel_blended_equirect.png "afstandsgetrouwe cilinderprojectie zonder overlap")
 
 ![Kubus_half_style_transfer](../images/NoTopNoBot.png "Kubus Half Style Transfer")
 

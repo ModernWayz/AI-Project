@@ -5,6 +5,7 @@ nav_order: 2
 has_toc: true
 ---
 
+
 # Kernel (image processing)
 
 **A kernel** is een matrix die als mask of filter gebruikt wordt bij convolutie.

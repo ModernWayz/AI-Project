@@ -8,6 +8,8 @@ permalink: /
 
 # Generative AI algoritmen & Artistic style transfer voor 360 graden beelden/video 
 
+![Banner_photo](images/penguinz.png "banner_photo")
+
 ## Probleemstelling
 
 De meeste algoritmen rondom beeldverwerking/rendering zijn 

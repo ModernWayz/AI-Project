@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Equirectangular/Cube_Map/Stitching
+title: Equirectangular/Cube_Map/Blending
 nav_order: 1
 ---
 
@@ -51,10 +51,13 @@ Deze afbeeldingen wordt met overlap gestyled en daarna worden de overlappende ui
 
 ![Afstandsgetrouwe cilinderprojectie style](../images/manuel_blended_equirect.png "afstandsgetrouwe cilinderprojectie zonder overlap")
 
-![Kubus_half_style_transfer](../images/NoTopNoBot.png "Kubus Half Style Transfer")
+## Blended Cube Map
 
-Work in progress kubus gezichten met overlap samen blenden 
+![Kubus_style_transfer](../images/styled_cube_map.png "Kubus Style Transfer")
 
+![Kubus_equirect_style_transfer](../images/Cubemap_equirectangluar_styled.png "Kubus_equirect Style Transfer")
+
+Door simpele blending toe te passen op overlappende kubus-gezichten kunnen we de bestaande artefacten minimaliseren en de convergentie afhouden.
 
 
 

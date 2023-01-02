@@ -8,7 +8,7 @@ permalink: /
 
 # Generative AI algoritmen & Artistic style transfer voor 360 graden beelden/video 
 
-![Banner_photo](images/penguinz.png "banner_photo")
+![Banner_photo](images/penguinz2.png "banner_photo")
 
 ## Probleemstelling
 

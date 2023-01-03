@@ -8,7 +8,7 @@ permalink: /
 
 # Generative AI algoritmen & Artistic style transfer voor 360 graden beelden/video 
 
-![Banner_photo](images/penguinz2.png "banner_photo")
+![night_city](https://user-images.githubusercontent.com/60694521/210372503-6ce10339-d23a-44cc-bd8c-85fd838044d0.gif)
 
 ## Probleemstelling
 

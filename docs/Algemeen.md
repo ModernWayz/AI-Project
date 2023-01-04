@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Equirectangular/Cube_Map/Blending
+title: Equirectangular-Projection/Blending
 nav_order: 3
 ---
 

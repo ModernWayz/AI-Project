@@ -53,11 +53,14 @@ Deze afbeeldingen wordt met overlap gestyled en daarna worden de overlappende ui
 
 ## Blended Cube Map
 
+Door simpele blending toe te passen op overlappende kubus-gezichten kunnen we de bestaande artefacten minimaliseren en de convergentie afhouden.
+
 ![Kubus_style_transfer](../images/styled_cube_map.png "Kubus Style Transfer")
 
+Resultaat:
 ![Kubus_equirect_style_transfer](../images/Cubemap_equirectangluar_styled.png "Kubus_equirect Style Transfer")
 
-Door simpele blending toe te passen op overlappende kubus-gezichten kunnen we de bestaande artefacten minimaliseren en de convergentie afhouden.
+###Cube map uitbreiden
 
 Met enkele gezichten te repliceren kunnen we dit process versnellen en het blenden minder tijdrovend maken.
 

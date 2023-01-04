@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Equirectangular/Cube_Map/Blending
-nav_order: 1
+nav_order: 3
 ---
 
 # Algemeen
@@ -58,6 +58,14 @@ Deze afbeeldingen wordt met overlap gestyled en daarna worden de overlappende ui
 ![Kubus_equirect_style_transfer](../images/Cubemap_equirectangluar_styled.png "Kubus_equirect Style Transfer")
 
 Door simpele blending toe te passen op overlappende kubus-gezichten kunnen we de bestaande artefacten minimaliseren en de convergentie afhouden.
+
+Met enkele gezichten te repliceren kunnen we dit process versnellen en het blenden minder tijdrovend maken.
+
+![Idea_expanded](https://user-images.githubusercontent.com/60694521/210592705-c8979797-465c-4832-b7d2-fdf8279475ae.png)
+
+Resultaat:
+![image](https://user-images.githubusercontent.com/60694521/210591876-7b680c02-acb1-4deb-b588-512caba279be.png)
+
 
 
 

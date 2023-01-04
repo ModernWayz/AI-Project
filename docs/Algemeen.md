@@ -60,7 +60,7 @@ Door simpele blending toe te passen op overlappende kubus-gezichten kunnen we de
 Resultaat:
 ![Kubus_equirect_style_transfer](../images/Cubemap_equirectangluar_styled.png "Kubus_equirect Style Transfer")
 
-###Cube map uitbreiden
+### Cube map uitbreiden
 
 Met enkele gezichten te repliceren kunnen we dit process versnellen en het blenden minder tijdrovend maken.
 

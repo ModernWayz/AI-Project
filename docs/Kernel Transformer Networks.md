@@ -6,7 +6,7 @@ nav_order: 3
 
 ## Kubus map
 
-![image](https://user-images.githubusercontent.com/60694521/210766310-f870ccdf-bef1-4d5a-9769-0c10032bdc62.png)
+![image](../images/Cube-Folding.gif "kubus map")
 
 
 ![Kubus map](../images/kubus.jpg "kubus map")

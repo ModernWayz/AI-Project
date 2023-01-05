@@ -13,8 +13,12 @@ nav_external_links:
   - title: Github Page
     url: https://github.com/ModernWayz/AI-Project
     
-  - title: 360° Viewer
+  - title: 360° Viewer (For results)
     url: https://renderstuff.com/tools/360-panorama-web-viewer/
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    
+  - title: 360° Viewer (own implementation)
+    url: https://360-image-viewer-rfqb.vercel.app/
     hide_icon: false # set to true to hide the external link icon - defaults to false
     
     

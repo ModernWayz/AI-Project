@@ -45,7 +45,7 @@ Met enkele gezichten te repliceren kunnen we dit process versnellen en het blend
 ![Idea_expanded](https://user-images.githubusercontent.com/60694521/210592705-c8979797-465c-4832-b7d2-fdf8279475ae.png)
 
 Resultaat:
-![image](https://user-images.githubusercontent.com/60694521/210591876-7b680c02-acb1-4deb-b588-512caba279be.png)
+![image](../images/own_implementation_result.png "result")
 
 
 

@@ -20,7 +20,7 @@ Hierna wordt de style transfer toegepast op elk vlak.
 
 ### Resultaat
 
-![Kubus map style transfer](../images/kubusmaptransfer.png "kubusmaptransfer")
+![bad_cubemap_no_blending](https://user-images.githubusercontent.com/60694521/213440024-f0ab18a8-f41a-4dbc-9fd1-ff535a37f1c9.png)
 
 ### Nieuwe artefacten
 

@@ -19,4 +19,4 @@ nav_order: 7
 ![result3](../images/miami_horsehead_no_line.png)
 
 
-![result4](../images/space_room.png)
+![result4](../images/Space_room.png)
